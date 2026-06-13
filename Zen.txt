@@ -10,7 +10,7 @@ Zen of Python!
 9.
 10.Errors should never pass silently.
 11.
-12.blogger32
+12.In the face of ambiguity, refuse the temptation to guess.
 13.
 14.Although that way may not be obvious at first unless you're Dutch.
 15.
