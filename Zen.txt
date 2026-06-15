@@ -1,7 +1,7 @@
 Zen of Python!
 1.
 2.
-3.nazr7094-ux
+3.Simple is better than complex.
 4.Complex is better than complicated.
 5.Flat is better than nested.
 6.ystoykov
