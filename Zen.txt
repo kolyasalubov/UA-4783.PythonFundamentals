@@ -2,20 +2,20 @@ Zen of Python!
 1.
 2.
 3.nazr7094-ux
-4.maxkor0
-5.MAJIbTA26
+4.Complex is better than complicated.
+5.Flat is better than nested.
 6.ystoykov
 7.
-8.ValeriaHaidukovych
+8.Special cases aren't special enough to break the rules.
 9.
 10.Errors should never pass silently.
 11.
-12.blogger32
+12.In the face of ambiguity, refuse the temptation to guess.
 13.
 14.Although that way may not be obvious at first unless you're Dutch.
 15.
-16.OrestGonchar
+16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
 18.
-19.matviyf
+19.Namespaces are one honking great idea -- let's do more of those!
 20.
