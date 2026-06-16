@@ -15,6 +15,7 @@ def triangle(a, s: float) -> float:
     """
     return(a * s / 2)
 
+
 def circle(r: float) -> float:
     """
     this function calculates the area of circle using given radius
@@ -38,4 +39,4 @@ elif choice == 3:
     print("The area of your circle is", circle(r))
 else:
     print("Wrong input data")
-    
+
