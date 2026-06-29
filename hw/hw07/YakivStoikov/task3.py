@@ -11,4 +11,3 @@ def get_character_numbers(some_string: str):
         else:
             char_count[char] = 1
     print (f"The character counts in the string are: {char_count}")
-
