@@ -17,3 +17,4 @@ elif shape == "triangle":
     print(f"Area: {triangle_area(base, height)}")
 else:
     print("Invalid shape")
+    
