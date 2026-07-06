@@ -1,0 +1,11 @@
+def number_of_characters(string):
+    """The function return the number of characters in a string"""
+    char_count = {}
+    for char in string:
+        if char in char_count:
+            char_count[char] += 1
+        else:
+            char_count[char] = 1
+    return char_count
+
+print(number_of_characters("Hello, World!"))
