@@ -21,3 +21,4 @@ print(f"2. Class namespace (__dict__): {Employee.__dict__}")
 print(f"3. Class name (__name__): {Employee.__name__}")
 print(f"4. Module name (__module__): {Employee.__module__}")
 print(f"5. Documentation (__doc__): {Employee.__doc__}")
+
