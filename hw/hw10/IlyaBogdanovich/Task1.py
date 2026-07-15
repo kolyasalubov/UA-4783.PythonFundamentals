@@ -21,3 +21,4 @@ class Rectangle(Polygon):
         a, b = self.sides[:2]
         area = a * b
         print(f"The area of the triangle is {area}")
+
