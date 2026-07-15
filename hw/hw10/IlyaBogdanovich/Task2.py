@@ -11,3 +11,4 @@ class Human:
     @staticmethod
     def arbitrary_message():
         print("I love Python")
+
