@@ -28,7 +28,7 @@ def area_circle(radius):
     '''
     Calculate the ara of circle
 
-    Paramerers:
+    Parameters:
     radius (float): The radius of circle
     PI (float): PI number
 
