@@ -9,3 +9,4 @@ def week(number):
         return "Wrong data input!"
 number = input("Enter your number: ")
 print(week(number))
+
