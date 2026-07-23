@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import font
+from OWM import get_weather
 
 HEIGHT = 350
 WIDTH = 450
@@ -11,6 +12,11 @@ root = tk.Tk()
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH)
 root.title("Weather Application")
 canvas.pack()
+
+def on_button_click():
+    city = entry_field.get()
+    w = get_weather(city)
+    label.config(text=w)
 
 
 
@@ -24,7 +30,7 @@ button = tk.Button(frame,
                    text="Get Weather", 
                    bg="gray", fg="white", 
                    font=('Courier', 8), 
-                   command=lambda: get_weather())
+                   command=on_button_click)
 button.place(relx=0.7, rely=0, relwidth=0.3, relheight=1)
 
 
